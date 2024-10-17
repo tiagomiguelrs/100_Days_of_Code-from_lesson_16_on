@@ -16,16 +16,14 @@ while IS_ON:
     action = input("Would you like to choose a beverage? Type [y] for yes or [n] for no: ")
     if action == "y":
         drink = input(f"What beverage would you like? {menu_beverages.get_items()} ")
-        for i in range(len(menu_beverages.menu)):
-            if menu_beverages.menu[i].name == drink:
-                drink_index = i
-                cost = menu_beverages.menu[drink_index].cost
+        item = menu_beverages.find_drink(drink)
+        cost = menu_beverages.find_drink(drink).cost
 
-        if maker.is_resource_sufficient(menu_beverages.menu[drink_index]):
+        if maker.is_resource_sufficient(item):
             payment_ok = machine.make_payment(cost)
 
             if payment_ok:
-                maker.make_coffee(menu_beverages.menu[drink_index])
+                maker.make_coffee(item)
 
         else:
             print("You don't have enough resources.")
@@ -33,13 +31,13 @@ while IS_ON:
 
     elif action == "report":
         maker.report()
-        print(machine.profit)
-        print(machine.money_received)
+        machine.report()
     elif action == "fill":
         maker.resources["water"] += int(input("How many mL of water do you want to add? "))
         maker.resources["milk"] += int(input("How many mL of milk do you want to add? "))
         maker.resources["coffee"] += int(input("How many g of coffee do you want to add? "))
         maker.report()
+        machine.report()
     else:
         IS_ON = False
 

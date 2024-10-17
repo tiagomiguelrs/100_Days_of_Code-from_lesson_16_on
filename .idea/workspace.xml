@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c52e663-be46-4a4c-b82b-be393e2ad0c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100 Days of Code - from lesson 16 on.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/PrettyTableExercise/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/another_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16/main.py" afterDir="false" />
+    <list default="true" id="9c52e663-be46-4a4c-b82b-be393e2ad0c9" name="Changes" comment="Day 16">
+      <change beforePath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day16/CoffeeMachineOOP/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tiagomiguelrs/100_Days_of_Code-from_lesson_16_on.git",
+    "accountId": "fe74dee3-7137-4dbd-a2f6-7db1db5ac833"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -149,6 +143,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729181702376</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 16">
+      <option name="closed" value="true" />
+      <created>1729189223395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729189223395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 16" />
   </component>
 </project>
