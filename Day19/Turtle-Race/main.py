@@ -30,13 +30,13 @@ def place_in_start(turtles: list):
 
 def race(turtles: list):
     for turtle in turtles:
-        will_move = randint(0, 1)
-        turtle.fd(will_move * 10)
+        will_move = randint(0, 10)
+        turtle.fd(will_move)
 
 
 # TODO-1 Create a function to use in the filter built-in function
 def is_finished(turtle: Turtle):
-    return turtle.xcor() >= 250
+    return turtle.xcor() >= 230
 
 tim, tom, jan, jen, don, den = hatch_turtles(6)
 my_turtles = [tim, tom, jan, jen, don, den]
