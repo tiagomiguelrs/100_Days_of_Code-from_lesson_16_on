@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c52e663-be46-4a4c-b82b-be393e2ad0c9" name="Changes" comment="Day 17" />
+    <list default="true" id="9c52e663-be46-4a4c-b82b-be393e2ad0c9" name="Changes" comment="Day 17">
+      <change afterPath="$PROJECT_DIR$/Day18/Hirst_project/Hirst_project_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18/Hirst_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19/Etch-a-Sketch/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19/Turtle-Race/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19/Turtle-Race/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,20 +54,24 @@
     "Python.main (1).executor": "Run",
     "Python.main (2).executor": "Run",
     "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Run",
     "Python.main.executor": "Run",
     "Python.quiz_brain.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\100 Days of Code Bootcamp\100 Days of Code - from lesson 16 on\Day19\Etch-a-Sketch" />
+      <recent name="C:\Users\Asus\Documents\100 Days of Code Bootcamp\100 Days of Code - from lesson 16 on\Day18\Hirst_project" />
       <recent name="C:\Users\Asus\Documents\100 Days of Code Bootcamp\100 Days of Code - from lesson 16 on\Day17" />
       <recent name="C:\Users\Asus\Documents\100 Days of Code Bootcamp\100 Days of Code - from lesson 16 on\Day16\CoffeeMachineOOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Code - from lesson 16 on" />
       <option name="ENV_FILES" value="" />
@@ -69,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day16/PrettyTableExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day19-Etch-a-Sketch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day16/PrettyTableExercise/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day19-Etch-a-Sketch/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day16/CoffeeMachineOOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day19/Turtle-Race" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day16/CoffeeMachineOOP/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day19/Turtle-Race/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Code - from lesson 16 on" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day17/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day18/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day18/Hirst_project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day16/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day18/Hirst_project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz_brain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Code - from lesson 16 on" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day19/Turtle-Race" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day17/quiz_brain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day19/Turtle-Race/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.quiz_brain" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729256269736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 17">
+      <option name="closed" value="true" />
+      <created>1729256679487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729256679487</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
