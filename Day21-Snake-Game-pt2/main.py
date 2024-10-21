@@ -1,4 +1,3 @@
-from operator import truediv
 from turtle import Screen
 from time import sleep
 from snake import Snake
